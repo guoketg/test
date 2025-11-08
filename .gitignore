@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch related
+*.pth
+*.pt
+*.torch
+
+# Data files
+data/
+D:/code/python/data/
+D:/code/python/DataMaluti/
+
+# Virtual environments
+venv/
+env/
+*.egg-info/
+
+# Logs and caches
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
